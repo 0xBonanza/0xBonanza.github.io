@@ -90,7 +90,6 @@ export const Main = () => {
                   </List>
                 </div>
             <h1><img className={classes.img} src={contact} /></h1>
-                <a href="https://be.linkedin.com/in/benjamintermonia" className={classes.contact}><img className={classes.icon} src={lknd} /></a>
                 <a href="https://twitter.com/0xBonanza" className={classes.contact}><img className={classes.icon} src={twitter} /></a>
                 <div className={classes.contact} style={{ color: 'white', fontSize: 16 }}>You can also contact us on <span style={{ color: 'black', backgroundColor: "white" }}>0xBonanza@gmail.com</span> for any question/inquiry!</div>
         </div>
