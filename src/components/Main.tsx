@@ -86,7 +86,7 @@ export const Main = () => {
                     <List>
                         <ListItem className={classes.list}><a style={{ textDecoration: 'none' }} href="https://0xbonanza.github.io/REACT-ERC20-staking/"><span className={classes.instruction}>ERC20 STAKING</span></a>React app for staking ERC20 tokens on Aave.</ListItem>
                         <ListItem className={classes.list}><a style={{ textDecoration: 'none' }} href="https://0xbonanza.github.io/REACT-ETH-prediction/"><span className={classes.instruction}>ETH PREDICTION</span></a>React app for predicting ETH/USDT future price in competition with other users.</ListItem>
-                        <ListItem className={classes.list}><a style={{ textDecoration: 'none' }} href=""><span className={classes.instruction}>NFT MINTING</span></a>React app for minting NFTs from a new collection (coming soon...)</ListItem>
+                        <ListItem className={classes.list}><a style={{ textDecoration: 'none' }} href="https://0xbonanza.github.io/REACT-erc721-minting/"><span className={classes.instruction}>NFT MINTING</span></a>React app for minting NFTs from a new collection (coming soon...)</ListItem>
                   </List>
                 </div>
             <h1><img className={classes.img} src={contact} /></h1>
